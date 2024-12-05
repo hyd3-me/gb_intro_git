@@ -29,3 +29,6 @@ hello md world!
 > перывй уровень цитирования
 >> второй уровень цитирования
 
+## web links
+
+text [example link](https://wrfix.ru "подсказка")
